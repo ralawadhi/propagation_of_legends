@@ -1,0 +1,2 @@
+I was thinking how legends could be partly born out of people either exagerating or understate news. This notebook uses a simple simulation that assumes a population of Yay and Nay sayers, and neutral. They exaggerate, understate, and faithfully trasmit the news; respectively.
+The population is not homogenous. They are more Ay and Nay sayers than neutral ones. The Ay and Nay sayers have a small chance of exagerate/understate the news rather than transmitting it as they heard it.
